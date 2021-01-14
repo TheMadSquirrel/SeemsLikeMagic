@@ -1,0 +1,2 @@
+# SeemsLikeMagic
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9d9cc86ff454523a35472f525b959f0)](https://app.codacy.com/gh/TheMadSquirrel/SeemsLikeMagic?utm_source=github.com&utm_medium=referral&utm_content=TheMadSquirrel/SeemsLikeMagic&utm_campaign=Badge_Grade_Settings)
